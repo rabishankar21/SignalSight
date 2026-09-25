@@ -111,7 +111,6 @@ Complex-symbol visualization for supported PSK and QAM modulation schemes.
 Recovered bits can be inspected after demodulation, correlation, de-interleaving and FEC processing.
 
 ---
-
 # Application Screenshots
 
 SignalSight provides an integrated desktop workbench for signal analysis, visualization, demodulation, de-interleaving, FEC processing and bitstream recovery.
@@ -120,7 +119,7 @@ SignalSight provides an integrated desktop workbench for signal analysis, visual
 
 The Overview workspace displays the detected modulation, estimated SNR, bandwidth, symbol rate, signal information and processing status in a single interface.
 
-![SignalSight Overview](./docs/screenshots/overview.png)
+<img src="https://raw.githubusercontent.com/rabishankar21/SignalSight/main/docs/screenshots/overview.png" alt="SignalSight Overview">
 
 ---
 
@@ -128,7 +127,7 @@ The Overview workspace displays the detected modulation, estimated SNR, bandwidt
 
 The Spectrum workspace provides a frequency-domain representation of the input signal for analysing its spectral characteristics and occupied bandwidth.
 
-![SignalSight Spectrum](./docs/screenshots/spectrum.png)
+<img src="https://raw.githubusercontent.com/rabishankar21/SignalSight/main/docs/screenshots/spectrum.png" alt="SignalSight Spectrum">
 
 ---
 
@@ -136,7 +135,7 @@ The Spectrum workspace provides a frequency-domain representation of the input s
 
 The Waterfall workspace provides a time-frequency representation of the signal for observing signal activity and frequency behaviour over time.
 
-![SignalSight Waterfall](./docs/screenshots/waterfall.png)
+<img src="https://raw.githubusercontent.com/rabishankar21/SignalSight/main/docs/screenshots/waterfall.png" alt="SignalSight Waterfall">
 
 ---
 
@@ -144,7 +143,7 @@ The Waterfall workspace provides a time-frequency representation of the signal f
 
 The Constellation workspace visualizes the complex I/Q symbols in the signal, providing a graphical representation of supported digital modulation characteristics.
 
-![SignalSight Constellation](./docs/screenshots/constellation.png)
+<img src="https://raw.githubusercontent.com/rabishankar21/SignalSight/main/docs/screenshots/constellation.png" alt="SignalSight Constellation">
 
 ---
 
@@ -152,7 +151,7 @@ The Constellation workspace visualizes the complex I/Q symbols in the signal, pr
 
 The Bit Stream workspace displays the recovered binary data after demodulation, bit correlation, de-interleaving and FEC processing. The recovered data can be viewed in binary or hexadecimal representation.
 
-![SignalSight Bit Stream](./docs/screenshots/bitstream.png)
+<img src="https://raw.githubusercontent.com/rabishankar21/SignalSight/main/docs/screenshots/bitstream.png" alt="SignalSight Bit Stream">
 
 ---
 
