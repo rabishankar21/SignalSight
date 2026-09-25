@@ -112,6 +112,42 @@ Recovered bits can be inspected after demodulation, correlation, de-interleaving
 
 ---
 
+## Application Screenshots
+
+SignalSight provides an integrated desktop workbench for signal analysis, visualization, demodulation, de-interleaving, FEC processing and bitstream recovery.
+
+### Signal Overview
+
+The Overview workspace displays the detected modulation, estimated SNR, bandwidth, symbol rate, signal information and processing status in a single interface.
+
+![SignalSight Overview](docs/screenshots/overview.png)
+
+### Power Spectral Density
+
+The Spectrum workspace provides a frequency-domain representation of the input signal for analysing its spectral characteristics and occupied bandwidth.
+
+![SignalSight Spectrum](docs/screenshots/spectrum.png)
+
+### Waterfall / Spectrogram
+
+The Waterfall workspace provides a time-frequency representation of the signal for observing signal activity and frequency behaviour over time.
+
+![SignalSight Waterfall](docs/screenshots/waterfall.png)
+
+### Constellation Analysis
+
+The Constellation workspace visualizes the complex I/Q symbols in the signal, providing a graphical representation of supported digital modulation characteristics.
+
+![SignalSight Constellation](docs/screenshots/constellation.png)
+
+### Recovered Bitstream
+
+The Bit Stream workspace displays the recovered binary data after demodulation, bit correlation, de-interleaving and FEC processing. The recovered data can be viewed in binary or hexadecimal representation.
+
+![SignalSight Bit Stream](docs/screenshots/bitstream.png)
+
+---
+
 ## Processing Pipeline
 
 ```text
