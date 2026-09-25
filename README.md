@@ -127,7 +127,7 @@ The Overview workspace displays the detected modulation, estimated SNR, bandwidt
 
 The Spectrum workspace provides a frequency-domain representation of the input signal for analysing its spectral characteristics and occupied bandwidth.
 
-<img src="https://raw.githubusercontent.com/rabishankar21/SignalSight/main/docs/screenshots/spectrum.png" alt="SignalSight Spectrum">
+<img src="https://github.com/rabishankar21/SignalSight/blob/main/docs/screenshorts/spectrum.png" alt="SignalSight Spectrum">
 
 ---
 
@@ -135,7 +135,7 @@ The Spectrum workspace provides a frequency-domain representation of the input s
 
 The Waterfall workspace provides a time-frequency representation of the signal for observing signal activity and frequency behaviour over time.
 
-<img src="https://raw.githubusercontent.com/rabishankar21/SignalSight/main/docs/screenshots/waterfall.png" alt="SignalSight Waterfall">
+<img src="https://github.com/rabishankar21/SignalSight/blob/main/docs/screenshorts/waterfall.png" alt="SignalSight Waterfall">
 
 ---
 
@@ -143,7 +143,7 @@ The Waterfall workspace provides a time-frequency representation of the signal f
 
 The Constellation workspace visualizes the complex I/Q symbols in the signal, providing a graphical representation of supported digital modulation characteristics.
 
-<img src="https://raw.githubusercontent.com/rabishankar21/SignalSight/main/docs/screenshots/constellation.png" alt="SignalSight Constellation">
+<img src="https://github.com/rabishankar21/SignalSight/blob/main/docs/screenshorts/constellation.png" alt="SignalSight Constellation">
 
 ---
 
@@ -151,7 +151,7 @@ The Constellation workspace visualizes the complex I/Q symbols in the signal, pr
 
 The Bit Stream workspace displays the recovered binary data after demodulation, bit correlation, de-interleaving and FEC processing. The recovered data can be viewed in binary or hexadecimal representation.
 
-<img src="https://raw.githubusercontent.com/rabishankar21/SignalSight/main/docs/screenshots/bitstream.png" alt="SignalSight Bit Stream">
+<img src="https://github.com/rabishankar21/SignalSight/blob/main/docs/screenshorts/bitstream.png" alt="SignalSight Bit Stream">
 
 ---
 
