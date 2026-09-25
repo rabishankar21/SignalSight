@@ -119,7 +119,7 @@ SignalSight provides an integrated desktop workbench for signal analysis, visual
 
 The Overview workspace displays the detected modulation, estimated SNR, bandwidth, symbol rate, signal information and processing status in a single interface.
 
-<img src="https://raw.githubusercontent.com/rabishankar21/SignalSight/main/docs/screenshots/overview.png" alt="SignalSight Overview">
+<img src="https://github.com/rabishankar21/SignalSight/blob/main/docs/screenshorts/bitstream.png" alt="SignalSight Overview">
 
 ---
 
